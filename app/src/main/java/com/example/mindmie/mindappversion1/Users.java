@@ -8,113 +8,61 @@ import java.util.Date;
 
 public class Users {
 
-    String UserID;
-    String UserEmail;
-    String UserName;
-    String UserAge;
-    String UserGender;
-    String UserHeight;
-    String UserWeight;
-    String UserActivity;
 
+    private String name;
+    private String gender;
+    private String age;
+    private String weight;
+    private String height;
+    private String activity;
 
-
-
-    //constructor
-
-    public Users() {
-    }
-    //get set
-
-    public String getUserID() {
-        return UserID;
+    public String getName() {
+        return name;
     }
 
-    public void setUserID(String userID) {
-        UserID = userID;
+    public void setName(String name) {
+        this.name = name;
     }
 
-    public String getUserEmail() {
-        return UserEmail;
+    public String getGender() {
+        return gender;
     }
 
-    public void setUserEmail(String userEmail) { UserEmail = userEmail;}
-
-    public String getUserName() {
-        return UserName;
+    public void setGender(String gender) {
+        this.gender = gender;
     }
 
-    public void setUserName(String userName) {
-        UserName = userName;
+    public String getAge() {
+        return age;
     }
 
-    public String getUserAge() {
-        return UserAge;
+    public void setAge(String age) {
+        this.age = age;
     }
 
-    public void setUserAge(String userAge) {
-        UserAge = userAge;
+    public String getWeight() {
+        return weight;
     }
 
-    public String getUserGender() {
-        return UserGender;
+    public void setWeight(String weight) {
+        this.weight = weight;
     }
 
-    public void setUserGender(String userGender) {
-        UserGender = userGender;
+    public String getHeight() {
+        return height;
     }
 
-    public String getUserHeight() {
-        return UserHeight;
+    public void setHeight(String height) {
+        this.height = height;
     }
 
-    public void setUserHeight(String userHeight) {
-        UserHeight = userHeight;
+    public String getActivity() {
+        return activity;
     }
 
-    public String getUserWeight() {
-        return UserWeight;
+    public void setActivity(String activity) {
+        this.activity = activity;
     }
-
-    public void setUserWeight(String userWeight) {
-        UserWeight = userWeight;
-    }
-
-    public String getUserActivity() {
-        return UserActivity;
-    }
-
-    public void setUserActivity(String userActivity) {
-        UserActivity = userActivity;
-    }
-
-
-
-
-
-
-//    public Users(String userID, String userEmail, String userPassword, String userAge, String userGender, String userHeight, String userWeight, String userActivity) {
-//        this.UserID = userID;
-//        this.UserEmail = userEmail;
-//        this.UserPassword = userPassword;
-//        this.UserAge = userAge;
-//        this.UserGender = userGender;
-//        this.UserHeight = userHeight;
-//        this.UserWeight = userWeight;
-//        this.UserActivity = userActivity;
-//    }
-
-
-
-
-
-//    String UserBirthDay;
-//    String UserGender;
-//    String UserWeight;
-//    String UserHeight;
-//    String UserActivity;
-
-
 
 
 
