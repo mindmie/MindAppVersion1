@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "854559919894",
+    "firebase_url": "https://mindappversion1.firebaseio.com",
+    "project_id": "mindappversion1",
+    "storage_bucket": "mindappversion1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854559919894:android:c8c80156c710dd21",
+        "android_client_info": {
+          "package_name": "com.example.mindmie.mindappversion1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "854559919894-5c609cpf7d002n2h2lcjdthtpalg5e9k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mindmie.mindappversion1",
+            "certificate_hash": "8b33429a1ebe9fb566fdcf7dc7a5b03f047e9c6d"
+          }
+        },
+        {
+          "client_id": "854559919894-8g8jsc1i4sg5ebleagucbl9o13rmek9b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mindmie.mindappversion1",
+            "certificate_hash": "d27d2567d99bb86ac19ab2cd3fadb6c9f2488ed5"
+          }
+        },
+        {
+          "client_id": "854559919894-cd81pp632albsd35ofi1ajq85eii9m11.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_emBzQPiHf-OYdZROgjO1vg65zjmBp_A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "854559919894-cd81pp632albsd35ofi1ajq85eii9m11.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
